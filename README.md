@@ -1,2 +1,1 @@
-# IkiSayiVTatma
-IkiSayiVTatma
+
