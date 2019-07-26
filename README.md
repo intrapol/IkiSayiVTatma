@@ -1,1 +1,1 @@
-
+# iki sayıyı vt atma
